@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHE6WUBBYQiDehxOK2y3xzZU3yj0Kp5MQe208Y/ysM0GkS5IZqNssZ2kzJ8zbY9qrio7eb151k2ulFV8W+IIXg==",
+  "success": true,
+  "projectFilePath": "D:\\git\\VisitorPlacementTool\\VisitorPlacementTool\\VisitorPlacementTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gutar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gutar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gutar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gutar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
