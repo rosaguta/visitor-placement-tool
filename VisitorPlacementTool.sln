@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPlacementTool", "VisitorPlacementTool\VisitorPlacementTool.csproj", "{8EB6527D-2F55-4270-81D0-E07C871203D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPTLogic", "VPTLogic\VPTLogic.csproj", "{F73815D1-D8E9-489B-ACDC-100266B2F11E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8EB6527D-2F55-4270-81D0-E07C871203D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EB6527D-2F55-4270-81D0-E07C871203D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EB6527D-2F55-4270-81D0-E07C871203D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73815D1-D8E9-489B-ACDC-100266B2F11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73815D1-D8E9-489B-ACDC-100266B2F11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73815D1-D8E9-489B-ACDC-100266B2F11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73815D1-D8E9-489B-ACDC-100266B2F11E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
