@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S1Qfnrr7aeWP31J/636K1L/AJDvshcCpg1M2/sGvQdTJSjGVpJGyf1QUnSU5hmMQMe766jRcBco1dlYhSmSN6w==",
+  "success": true,
+  "projectFilePath": "D:\\git\\VisitorPlacementTool\\VPTLogic\\VPTLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gutar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gutar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gutar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
