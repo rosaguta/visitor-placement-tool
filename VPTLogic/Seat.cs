@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace VPTLogic
 {
-    public class Event
+    public class Seat
     {
-        public List<Section> sections { get; set; } 
+        public string Name { get; set; }
+        public Visitor Visitor{ get; set; } 
     }
 }
